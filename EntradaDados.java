@@ -13,10 +13,10 @@ public class EntradaDados{
         double n2 = sc.nextDouble();
         // Aqui o usuário insere o número e o scanner identifica e salva na variável "n2"
 
-        double subtracao = n1 - n2;
-        // aqui foi criada a variável subtracao, que terá a função de guardar o resultado da operação
+        double multiplicacao = n1 * n2;
+        // aqui foi criada a variável multiplicação, que terá a função de guardar o resultado da operação
 
-        System.out.println("O resultado da subtracao: " + subtracao); 
+        System.out.println("O resultado da multiplicacao: " + multiplicacao); 
 
         //informado o resultado final para o usuário
 
