@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ClasseMatematica {
+public class CalcularMedia {
 
     public static void main (String[]args) {
 
